@@ -6,3 +6,9 @@
 - [x] Involves a CSS stylesheet which styles the HTML elements.
 - [x] A javascript page which fetches different quotes with the Javascript Fetch API using the API : ( QUOTE_API_URL )
 - [x] Involves a timer which keeps track of the time to type a quote. 
+  
+
+Screenshots are provided below : 
+
+![HomePage1](./Images/HomePage1.png)
+![HomePage2](./Images/HomePage2.png)
